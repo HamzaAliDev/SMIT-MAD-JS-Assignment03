@@ -11,6 +11,6 @@ main{
     height: 72px;
 }
 .output-border{
-    height : 172px;
+    min-height : 172px;
 
 }
